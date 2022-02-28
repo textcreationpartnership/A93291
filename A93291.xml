@@ -1,0 +1,220 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sir Iohn Presbyter not dead. As the malicious author of that abusive pamphlet, that nine-dayes-wonder lately printed, intituled, The last will and testament of Sir John Presbyter, divulged. But was onely bereft of his soule for a few dayes, and is now againe revived. The wondrous things he saw, during his confinement to the lower parts. What committee-men, commanders, and ministers, hee saw there grievously tormented. Faithfully taken from his owne mouth. Reade and wonder.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93291</idno>
+            <idno type="STC">Wing S3883</idno>
+            <idno type="STC">Thomason E402_32</idno>
+            <idno type="STC">ESTC R201836</idno>
+            <idno type="EEBO-CITATION">99862327</idno>
+            <idno type="PROQUEST">99862327</idno>
+            <idno type="VID">114483</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93291)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114483)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 64:E402[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sir Iohn Presbyter not dead. As the malicious author of that abusive pamphlet, that nine-dayes-wonder lately printed, intituled, The last will and testament of Sir John Presbyter, divulged. But was onely bereft of his soule for a few dayes, and is now againe revived. The wondrous things he saw, during his confinement to the lower parts. What committee-men, commanders, and ministers, hee saw there grievously tormented. Faithfully taken from his owne mouth. Reade and wonder.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Tantalus for Christopher Charon, and are to be sold at his shop in the shades of Dis, at the signe of the Gorgons head,</publisher>
+                  <pubPlace>Gehenna, [i.e. London] :</pubPlace>
+                  <date>[1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false. Actual place and publication date from Wing.</note>
+                  <note>"Includes a ballad: 'What if the King'"--Thomason Catalogue.</note>
+                  <note>Annotation on Thomason copy: "Aug: 20th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Presbyter, John, --  Sir.</term>
+               <term>Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:114483:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 23 -->
+            <p>SIR IOHN PRESBYTER Not Dead.</p>
+            <p>As the malicious Author of that abu<g ref="char:EOLhyphen"/>ſive Pamphlet, that nine-dayes-wonder lately Printed, intituled,</p>
+            <p>The Last Will and teſtament of Sir John Presbyter, <hi>divulged.</hi>
+            </p>
+            <p>But was onely bereft of his ſoule for a few dayes, and is now againe revived.</p>
+            <p>The wondrous things he ſaw, during his confine<g ref="char:EOLhyphen"/>ment to the lower parts.</p>
+            <p>What Committee-men, Commanders, and Miniſters, hee ſaw there grievouſly tormented.</p>
+            <p>Faithfully taken from his owne mouth.</p>
+            <p>Reade and Wonder.</p>
+            <p>
+               <add>Aug: 20</add> GEHENNA, Printed by <hi>Thomas Tantalus</hi> for <hi>Chriſtopher Charon,</hi> and are to be ſold at his ſhop in the ſhades of <hi>Dis,</hi> at the ſigne of the Gorgons head.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:114483:2"/>
+            <!-- PDF PAGE 24 -->
+            <pb n="1" facs="tcp:114483:2"/>
+            <!-- PDF PAGE 24 -->
+            <head>Sir JOHN PRESBYTER not Dead.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Las, alas, <hi>Independents,</hi> and am I againe revived; I live againe, and ſhall doe ſo, till I behold the <hi>Babel</hi> you have builded, demoliſhed by your ſelves, and your Anarchy bee reduced to Monarchy: The hyreling you imployed to pub<g ref="char:EOLhyphen"/>liſh my Death, is ſince dead himſelfe; alas the fel<g ref="char:EOLhyphen"/>low was ſmitten with the horror of his crime, and not able to indure the thoughts <hi>Pluto</hi> continually ſuggeſted; hee, like one weary of his Fetters, lea<g ref="char:EOLhyphen"/>ping out at the priſon window, breaketh his limbes, gave up the Ghoſt. My ſweet friends, I have the coldeſt comfort for you, that your greateſt ene<g ref="char:EOLhyphen"/>mies can wiſh, during my confinement to the ſhades below, for to me it was permitted, as once to the righteous <hi>Lazarus,</hi> to take a view of things there done, and thence once more to viſit the Earth.</p>
+            <p>I ſaw neere the Lake called <hi>Phlegeton,</hi> an infinite number of Royalliſts, <hi>alias</hi> Epiſcoparians, Romiſh Catholicks, Pimps, Panders and Parricides, knee<g ref="char:EOLhyphen"/>ling before the brazen Gates of <hi>Plute's</hi> Pallace, all
+<pb n="2" facs="tcp:114483:3"/>
+               <!-- PDF PAGE 25 -->with heav'd up hands, invoking the Prince of hell, to further their deſigne with his utmoſt ayde, to ſend his ſpirits abroad to ſeduce the ſoules of men, that they might be perſwaded, to create a hell on earth, (if it might be) to ſet up confuſion, and countenance utter deſolation, to wit, <hi>Independencie,</hi> for which immunities, if it tooke effect, they joyntly ſwore by the river <hi>Stix,</hi> to ſtuffe hell with more ſouls, then the ſaid river harboured Serpents, and with them<g ref="char:EOLhyphen"/>ſelves, to draw the world after them to deſtruction: The principal ſticklers in this buſines, my thoughts perſwaded me repreſented the perſons of a famous Apoſtate, now a houſe preacher, <hi>alias</hi> Tubiſt in <hi>Bell-Alley;</hi> and of another Apoſtle of the new Edition, a ſeducer, who daily giveth deſtruction, I mean in<g ref="char:EOLhyphen"/>ſtruction, neer <hi>Finsbury;</hi> I had a ſight of <hi>Saltmarſh,</hi> but he as a ſhadow flying away, fled from me; there were divers others, which for brevity I ſhall omit, who were unceſſantly urgent on <hi>Lucifer,</hi> to lend them his ayde, when <hi>Goodwin</hi> was allotted by the whole multitude to ſpeake in the name of them all, who ſaid:</p>
+            <p>Thou knowſt great Prince, how I with theſe my Brethren, have for many yeeres oppoſed even the high Court of Parliament, aſſembled in the chiefe City of <hi>England,</hi> to aboliſh <hi>Epiſcopacy,</hi> and ſet up <hi>Presbytery,</hi> hath bin their chiefe ayme, and yet by us have hitherto bin continually thwarted in their ſay<g ref="char:EOLhyphen"/>ings, oppoſed in their actions, and fruſtrated of their deſires, I am ſure thou canſt not forget, how we have hitherto uſed al means, and deviſed all wayes to raiſe diſcords &amp; diviſions, which we know in the
+<pb n="3" facs="tcp:114483:3"/>
+               <!-- PDF PAGE 25 -->end cannot but prove the diſſolution of <hi>Monarchy,</hi> and ſo conſequently, the corner ſtone of <hi>Anarchy;</hi> to attaine which our deſires, we have hired our deare Brother, and indeed, ours and thine owne Prop, <hi>John Lilburne,</hi> to perſuade the people, that even their Lord K. <hi>Charles</hi> is now captive under their ſoveraign pow<g ref="char:EOLhyphen"/>er; that he be forthwith Articled againſt, Impeached,<note place="margin">Regall Ty<g ref="char:EOLhyphen"/>ranny, pag. 14 <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>6.53.</note> Arraigned, Depoſed, Executed, &amp; his Poſteritie diſ<g ref="char:EOLhyphen"/>inherited by the Parliament; that the Aſſembly of Divines be immediately diſſolved, and impeached of high Treaſon, Presbyteries ſuppreſſed, the <hi>Directorie,</hi> Nationall League, Pariſhes, Pariſh Churche, Chap<g ref="char:EOLhyphen"/>pels, Tythes, Oblations, Miniſters by Ordination, Univerſities, and all Schooles, except onely ſuch as teach <hi>Engliſh,</hi> Write, and Cypher; all ſet formes of Prayer, the Lords Prayer, Creed, and Ten Comman<g ref="char:EOLhyphen"/>dements, Baptizing of Infants, &amp; ſinging of Pſalms, utterly aboliſhed: Therefore, on our part, great Prince, thou mayſt gueſſe, that there hath not, nor now is, any thing wanting that may further our De<g ref="char:EOLhyphen"/>ſigne, but onely thy preſent Aid, in an eſpeciall man<g ref="char:EOLhyphen"/>ner, now in the nick of time we implore; for now, to our unſpeak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e griefe, there is like to be a free and full Parliament, who have already Voted the Man whom we ſo extremely hate (the King) to <hi>Lond<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> there to remaine with honour and ſafetie: therfore, great Sir, as you tender the inlargement of your Territories, the Command of Soules, and the ruine of Mankind, deviſe ſome ſpeedie remedie, that Inde<g ref="char:EOLhyphen"/>pendencie may be tolerated, his Majeſtie prohibited from comming to <hi>London,</hi> this Parliament diſſol<g ref="char:EOLhyphen"/>ved, and our <hi>Anaschy</hi> introduced; and this as you tender your owne honour and our ſafetie.</p>
+            <pb n="4" facs="tcp:114483:4"/>
+            <!-- PDF PAGE 26 -->
+            <p>This Speech was approv'd of by the whole mul<g ref="char:EOLhyphen"/>titude, who expreſt their liking by a generall ſhout; but what anſwer <hi>Pluto</hi> returned, I cannot relate, for I was tranſported with a deſire to pry yet further into the ſecrets of that tenebrous place; ſo paſ<g ref="char:EOLhyphen"/>ſing on from thence, <hi>I</hi> came into a large Plain, where fire continually ran along upon the ground, where were many men tormented with ſundry torments; there I ſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w a company of Furies, who were buſily imployed in preparing Wracks, Gibbets, and o<g ref="char:EOLhyphen"/>ther various inſtruments of torture; upon a Grid<g ref="char:EOLhyphen"/>iron I beheld one lye, whom at the ſight I took to be <hi>Quaterman,</hi> but viewing him better, I found I was deceived, for it was <hi>Wanſworth</hi> the Committee<g ref="char:EOLhyphen"/>man, who gathered together the wealth of a whole County, pretending for the publike uſe, and then ran away over Sea: Neere him I beheld ſwimming in a Lake of Sulphure, <hi>Townſen,</hi> whom once the Parliament of <hi>England</hi> ſo much confided in, and now ſo well know his falſeneſſe, who after hee had cheated both the publike wealth and the whole Pa<g ref="char:EOLhyphen"/>riſh wherein hee lived, being by them complained againſt and proſecuted, fled into the North part of <hi>England,</hi> and turn'd Miniſter; Ah <hi>Townſen,</hi> ſaid I, thou never wert in ſuch a Tub before; and were all houſe-preachers allowed no better a Pulpit, they would have little joy to expound: Neere theſe I beheld thruſt through with ſwords of fire, divers Commanders, that through feare or falſeneſſe lately deſerted the Army; <hi>Pluto</hi> had an it tention to make them of his own guard, for there he feared not their fl<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eting<g ref="char:punc">▪</g> and there they might without ſcruple, be as
+<pb n="5" facs="tcp:114483:4"/>
+               <!-- PDF PAGE 26 -->they would themſelvs, the more baſer, the more bet<g ref="char:EOLhyphen"/>ter; neer theſe lockt in iron collers, glowing hot, I ſaw one Levite, whom by my gueſſe I took to be the Author of <hi>Hagio Maſtix,</hi> hee much repented he left <hi>Coleman-ſtreet</hi> for <hi>Bell-Alley,</hi> and earth for hell; the thought of the dayes he once enjoyed, when his Au<g ref="char:EOLhyphen"/>dience gathered him for one Sermon 20. l. doubly augmented his torments: Neer him in the ſame po<g ref="char:EOLhyphen"/>ſture, lay the ſimple author of <hi>Simplicities Defence,</hi> wall-ey'd <hi>Gorton,</hi> who wanting mony in old <hi>England,</hi> would needs be hired to go over into New <hi>England,</hi> to convert the Infidels, and after returned a perfect pagan, and ingroſſed an Audience to himſelfe, and they forſooth were <hi>Gortons</hi> Congregation, the fat foole howled like a Lybian Lion taken in the Hun<g ref="char:EOLhyphen"/>ters toyle; and therfore <hi>Photo</hi> co<g ref="char:cmbAbbrStroke">̄</g>manded his throat to be filled with moken Lead, to ſtop the paſſage of his cryes; for he, as he did on earth, ſought to di<g ref="char:EOLhyphen"/>ſturb all Hell: But by this my time limited, was ex<g ref="char:EOLhyphen"/>pired, and my ſoule returned to my body, and com<g ref="char:EOLhyphen"/>ming on earth, and paſſing to <hi>Weſtminſter Hall,</hi> I heard a fellow ſing this Ballad, called,</p>
+            <div type="poem">
+               <head>What if the King, &amp;c. <hi>Or,</hi> The Armyhath helpt us.</head>
+               <l>WHen as great matters were ſeemingly handling,</l>
+               <l>yet order and Diſcipline pul'd to the ground,</l>
+               <l>And baſe Hypocriſie Rebellion dandling,</l>
+               <l>fooles walking at large, wiſe men in the Pound;</l>
+               <l>Loe a hand was put forth,</l>
+               <l>For to ſave thoſe of worth,</l>
+               <l>Hell ſhreikt,</l>
+               <l>Knaves ſqueakt,</l>
+               <l>Fearing to fall.</l>
+               <pb n="6" facs="tcp:114483:5"/>
+               <!-- PDF PAGE 27 -->
+               <l>When most men fear'd their meat would but bane them,</l>
+               <l>and their owne hands would wound them to death,</l>
+               <l>When as the Trustees in a net had tane them,</l>
+               <l>and thoſe ſought their ruine to whom they gave breath,</l>
+               <l>Then at that time when ſuccour was ſcant,</l>
+               <l>Hee that they rely'd on,</l>
+               <l>Thoſe they did confide on,</l>
+               <l>Fail'd them,</l>
+               <l>Aſsail'd them,</l>
+               <l>The truth for to try.</l>
+               <l>And non the Committee-mens arſes make buttons,</l>
+               <l>and the Exciſe-men begin for to hide,</l>
+               <l>The City Churles, and paunch-belly'd Sluttons,</l>
+               <l>begin for to pauſe where they may abide,</l>
+               <l>Free from the ills that may on them fall;</l>
+               <l>The Tub-men grow hoarſe,</l>
+               <l>And forget to diſcourſe,</l>
+               <l>The Siſters are ſilent, and wiſhed</l>
+               <l>They ne're</l>
+               <l>While e're</l>
+               <l>Had preacht at all.</l>
+               <l>Time-ſerving Prieſts that in Pulpits reviled,</l>
+               <l>and dare to abuſe their Soveraign Lord,</l>
+               <l>Now with themſelves t<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> him reconciled,</l>
+               <l>altring their Oriſons with one accord,</l>
+               <l>Cheap-ſide-Croſſe was ſeen,</l>
+               <l>When before it had been,</l>
+               <l>Charing-Croſse was in hope,</l>
+               <l>Without leave of the Pope,</l>
+               <l>For to be new erected,</l>
+               <l>Most men,</l>
+               <l>Hop't then,</l>
+               <l>To have the old way agen.</l>
+               <trailer>Finis.</trailer>
+               <pb n="6" facs="tcp:114483:6"/>
+               <!-- PDF PAGE 28 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
